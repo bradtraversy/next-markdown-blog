@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^2.1.2",
     "next": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
