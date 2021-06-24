@@ -2,6 +2,8 @@
 
 Simple static blog using markdown and Next.js
 
+[DEMO](https://next-markdown-blog-drab.vercel.app/)
+
 ## Usage
 
 ```bash
